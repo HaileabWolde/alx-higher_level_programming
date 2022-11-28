@@ -1,1 +1,1 @@
-This is a readme file for my first shell script in python programming
+This is a readme file in the repo for python programming language projects i am about to do
