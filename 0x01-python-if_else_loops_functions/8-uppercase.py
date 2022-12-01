@@ -4,7 +4,7 @@ def uppercase(str):
     for i in str:
         if (i == " "):
             result += " "
-        elif (97 <= ord(i) < 122):  # to change into uppercase
+        elif (97 <= ord(i) <= 122):  # to change into uppercase
             result += chr(ord(i) - 32)  # ASCII ORDER 
         else:
             result += chr(ord(i))
