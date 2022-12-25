@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 # 2-square.py writeen by Haileab Woma
+"""A modue that defines a square """
 
 
 class Square:
