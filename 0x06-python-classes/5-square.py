@@ -2,6 +2,7 @@
 # 4-square.py writeen by Haileab Woldemariam
 """ a module of square """
 
+
 class Square:
     """A class that represents a square"""
 
