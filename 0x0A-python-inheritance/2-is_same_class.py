@@ -8,8 +8,4 @@ def is_same_class(obj, a_class):
         obj: repersents the objected number
         a_class: the class that is to be checked
     """
-    if isinstance(obj, a_class):
-        return True
-
-    else:
-        return False
+    return (type(obj) == a_class)
